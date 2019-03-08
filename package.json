@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "build": "node build"
+  },
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "node-fetch": "^2.3.0"
+  }
+}
